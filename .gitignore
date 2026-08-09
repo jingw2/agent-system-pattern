@@ -12,3 +12,4 @@ __pycache__/
 # IDE
 .idea/
 .vscode/
+.star-history-cache.json

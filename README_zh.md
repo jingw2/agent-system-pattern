@@ -139,6 +139,12 @@ python3 multi_agent.py
 - 全部为教学最小实现,不含生产级组件(日志、重试、评估)——生产级要点见下方参考的科普长文。
 - 代码风格统一:文件头署名、`load_dotenv()`、LCEL 管道、英文注释与 docstring、`__main__` 测试块。
 
+## ⭐ Star History 星标历史
+
+![Star History 图表](/jingw2/agent-system-pattern/raw/main/assets/star-history-light.png)
+
+由 [`scripts/gen_star_history.py`](/jingw2/agent-system-pattern/blob/main/scripts/gen_star_history.py) 通过 [GitHub Actions](/jingw2/agent-system-pattern/blob/main/.github/workflows/star-history.yml) 每日自动更新
+
 ## 📚 参考
 
 - **科普长文**:Agent 系统设计模式(自主性光谱、各模式原理与选型)——《Agentic Design Patterns》(adp.xindoo.xyz)、Anthropic《Building Effective Agents》、OpenAI《A Practical Guide to Building Agents》、MongoDB《7 Practical Design Patterns for Agentic Systems》、Databricks《Agent system design patterns》
