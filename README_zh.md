@@ -141,9 +141,9 @@ python3 multi_agent.py
 
 ## ⭐ Star History 星标历史
 
-![Star History 图表](/jingw2/agent-system-pattern/raw/main/assets/star-history-light.png)
+![Star History 图表](https://raw.githubusercontent.com/jingw2/agent-system-pattern/main/assets/star-history-light.png)
 
-由 [`scripts/gen_star_history.py`](/jingw2/agent-system-pattern/blob/main/scripts/gen_star_history.py) 通过 [GitHub Actions](/jingw2/agent-system-pattern/blob/main/.github/workflows/star-history.yml) 每日自动更新
+由 [`scripts/gen_star_history.py`](https://github.com/jingw2/agent-system-pattern/blob/main/scripts/gen_star_history.py) 通过 [GitHub Actions](https://github.com/jingw2/agent-system-pattern/blob/main/.github/workflows/star-history.yml) 每日自动更新
 
 ## 📚 参考
 
