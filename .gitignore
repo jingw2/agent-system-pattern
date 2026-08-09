@@ -1,0 +1,14 @@
+# Secrets — never commit real credentials
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
